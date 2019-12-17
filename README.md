@@ -72,3 +72,6 @@ Using the provided data set to predict the bike demand (bike users count - 'cnt'
 10- Evaluating selected model using test dataset
 
 
+## ML model to Rest API
+
+
