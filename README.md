@@ -74,4 +74,10 @@ Using the provided data set to predict the bike demand (bike users count - 'cnt'
 
 ## ML model to Rest API
 
+option 1) using django-
+          Although it gives excellent performance in handling heavy algorithms and deep neural networks but for small projects it is               better to not to use django.
+          
+option 2) using flask-
+          It is best suited for light to medium weighted models and easy to use.
+          So I am using flask for making rest api.
 
